@@ -1,0 +1,10 @@
+{
+  "name": "test_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "IBA-HOK <231205026@ccmailg.meijo-u.ac.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
