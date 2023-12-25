@@ -27,3 +27,5 @@ pingを送るとpongを返す．
 | http://localhost:5000/hanshin/1 | 33 - 4 |
 | http://localhost:5000/hanshin/2 | 66 - 8 |
 | http://localhost:5000/hanshin/10 | 330 - 40 |
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
